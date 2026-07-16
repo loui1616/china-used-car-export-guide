@@ -6,7 +6,7 @@ permalink: /about/
 
 # About This Guide
 
-We publish practical buying guides and maintenance tips for commercial bakery equipment.
+We publish practical export guides for dealers importing used cars and NEVs from China — covering FOB/CIF quotes, inspection, documentation, and FCL shipping.
 
-For product specifications, pricing, and direct purchase, visit our partner
+For live inventory, pricing, and turnkey export service, visit our partner
 **[{{ site.main_site.name }}]({{ site.main_site.url }})**.
