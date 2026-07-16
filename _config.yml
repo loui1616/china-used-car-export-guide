@@ -1,0 +1,20 @@
+title: "China Used Car Export Guide"
+description: "Practical guides for importing used cars and NEVs from China — FOB, CIF, inspection, and shipping"
+url: ""
+baseurl: "/china-used-car-export-guide"
+lang: en
+
+main_site:
+  name: "WinMinCar"
+  url: "https://winmincar.com"
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
