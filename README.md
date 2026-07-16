@@ -1,2 +1,2 @@
 # china-used-car-export-guide
-Commercial bakery equipment buying guides
+Practical guides for importing used cars and NEVs from China — FOB, CIF, inspection, and FCL shipping
